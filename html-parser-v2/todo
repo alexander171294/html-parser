@@ -1,0 +1,8 @@
+* Obtener objetos al vuelo
+
+* Proto-Finder:
+ - Corrección para strpos
+ - corrección de busqueda en cascada considera a los parents
+ - buscar con atributos que no sean iguales a o que no exista x atributo.
+ 
+* agregar al procesamiento la busqueda de cierres de tags inexistentes
